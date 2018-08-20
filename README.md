@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 Run the command:
 
 ```
-git clone https://github.mlbam.net/mrotlevi/LinkedScraper.git
+git clone "this git address"
 ```
 
 Within the directory, run the command:
