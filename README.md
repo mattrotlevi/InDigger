@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 Run the command:
 
 ```
-git clone "this git address"
+git clone https://github.com/mattrotlevi/InDigger.git
 ```
 
 Within the directory, run the command:
@@ -56,7 +56,7 @@ FINANCE
 NAME:Jane Doe
 ---------------------
 Education:
--  Marist College
+-  ABC College
 Experience:
 -  Director, Financial Planning &amp; Analysis at Major League Baseball
 -  Manager - Finance at WTAS
@@ -70,8 +70,8 @@ EMAIL: jane.doe@mlb.com
 NAME:John Doe
 ---------------------
 Education:
--  Fairfield University
--  Suffern High School
+-  ABC University
+-  XYZ High School
 Experience:
 -  Finance Intern at Major League Baseball
 Job Title:
