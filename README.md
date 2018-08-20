@@ -44,7 +44,7 @@ Employee Harvesting:
 As a demonstration of the program's ability, enter:
 
 ```
-python InDigger.py --company "major league baseball" --emps "/home/mattr/scraper/wordlists/title-list-small.txt" --emailformat first.last@mlb.com
+python InDigger.py --company "company name" --emps "/home/mattr/scraper/wordlists/title-list-small.txt" --emailformat first.last@company.com
 ```
 The output will look like
 
@@ -58,14 +58,14 @@ NAME:Jane Doe
 Education:
 -  ABC College
 Experience:
--  Director, Financial Planning &amp; Analysis at Major League Baseball
+-  Director, Financial Planning &amp; Analysis at Company Name
 -  Manager - Finance at WTAS
 -  Manager of Finance at The Madison Square Garden Company, Inc
 -  Financial Analyst at Broadridge Financial Solutions, Inc
 -  Intern at Merrill Lynch
 Job Title:
--  Director, Financial Planning &amp; Analysis at Major League Baseball
-EMAIL: jane.doe@mlb.com 
+-  Director, Financial Planning &amp; Analysis at Company Name
+EMAIL: jane.doe@company.com 
 
 NAME:John Doe
 ---------------------
@@ -73,10 +73,10 @@ Education:
 -  ABC University
 -  XYZ High School
 Experience:
--  Finance Intern at Major League Baseball
+-  Finance Intern at Company Name
 Job Title:
--  Intern at Major League Baseball
-EMAIL: john.doe@mlb.com
+-  Intern at Company Name
+EMAIL: john.doe@company.com
 ```
 ## Authors 
 - Matt Rotlevi
