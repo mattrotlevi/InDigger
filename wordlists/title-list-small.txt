@@ -1,0 +1,20 @@
+sales
+marketing
+finance
+human resources
+accounting
+inventory
+insurance
+licenses
+operational
+customer service
+staff
+research & development
+management
+administration
+engineering
+it
+information security
+intern
+strategy
+other

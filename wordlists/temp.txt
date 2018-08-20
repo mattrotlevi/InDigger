@@ -1,0 +1,19 @@
+sales
+marketing
+finance
+accounting
+inventory
+quality assurance
+insurance
+licenses
+operational
+customer service
+staff
+research & development
+management
+administration
+engineering
+it
+information security
+strategy
+other
