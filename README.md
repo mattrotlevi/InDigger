@@ -15,14 +15,14 @@ git clone https://github.com/mattrotlevi/InDigger.git
 Within the directory, run the command:
 
 ```
-python linkedin_scraper.py -h
+python InDigger.py -h
 ```
 Your output will be
 ```
-usage: linkedin_scraper.py [-h] [--company string] [--emps file]
+usage: InDigger.py [-h] [--company string] [--emps file]
                            [--emailformat string]
 
-LinkedScraper - A LinkedIn scraping tool by Matt Rotlevi
+InDigger - A LinkedIn scraping tool by Matt Rotlevi
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -44,7 +44,7 @@ Employee Harvesting:
 As a demonstration of the program's ability, enter:
 
 ```
-python linkedin_scraper.py --company "major league baseball" --emps "/home/mattr/scraper/wordlists/title-list-small.txt" --emailformat first.last@mlb.com
+python InDigger.py --company "major league baseball" --emps "/home/mattr/scraper/wordlists/title-list-small.txt" --emailformat first.last@mlb.com
 ```
 The output will look like
 
